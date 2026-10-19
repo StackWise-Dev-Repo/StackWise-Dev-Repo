@@ -8,8 +8,7 @@ Hi, I'm <span style="color: #FF10EF;">Amad Ali</span>
 ---
 
 <h3 style="font-size: 40px">👉 About Me</h3>
-<p>I'm a Senior Shopify Developer with 4+ years of experience building high-converting Shopify stores, custom themes, and apps. I've worked as a Team Lead at <span style="color: #FF10EF;"> OptiExperts </span> Shopify Agency and currently freelance with agencies and clients worldwide.</p>
-<p style="margin-bottom: 1.5rem">Alongside my dev work, I'm pursuing an MS in Computer Science at the University of Wah, with research interests in Autonomous Vehicles, Large Language Models (LLMs), and Quantum Computing.</p>
+<p>I’m a Senior Shopify Developer with 4+ years of experience building high-converting stores, custom themes and apps. Former Team Lead at OptiExperts (Shopify Plus agency), now working with agencies and brands worldwide. I also build full-stack apps with the MERN stack and Next.js.</p>
 
 ---
 
