@@ -56,10 +56,10 @@ Hi, I'm <span style="color: #FF10EF;">Amad Ali</span>
 </ul>
 <p style="color: #FF10EF; margin-bottom: 1rem;">Feel free to ask for queries and questions about stores.</p>
 <ul style="margin-bottom: 1.5rem">
-    <li>Dulcet Gift Basket App for [memomap.](https://www.dulcetgiftbaskets.com/) with multiaddress and addon features.</li>
+    <li>Dulcet Gift Basket App for <a href="https://www.dulcetgiftbaskets.com">Dulcet Gift Basket</a> with multiaddress and addon features.</li>
     <li>E-Sim orders and mail automation app with resend and esimaccess api</li>
     <li>Discount API implementation</li>
-    <li>Price Handler App with mapbox API for [memomap.](https://memomap.store/) </li>
+    <li>Price Handler App with mapbox API for <a href="https://memomap.store/">Memo Map Store</a> </li>
 </ul>
 
 ---
