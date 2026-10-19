@@ -1,13 +1,14 @@
 <h1 align="center" style="font-size: 44px; font-weight: 700;">
-Hi, I'm <span style="color: #FF10EF;">Amad | StackWise-Dev</span>
+Hi, I'm <span style="color: #FF10EF;">Amad Ali</span>
 </h1>
-<h4 align="center" >Shopify Theme & App Developer | MERN Stack | Youtuber</h4>
+<h4 align="center" >Shopify Theme & App Developer | MERN Stack | NextJS</h4>
+<h4 align="center" style="margin: 0px">Find me on Youtube: <a href="https://www.youtube.com/@stackwisedev">StackWiseDev</a></h4>
 <h5 align="center" style="font-size: 18px; color: #FF10EF; text-align: center; margin-bottom: 1.5rem">stackwise.dev.repo@gmail.com | <em>+92316-5001019</em></h5>
 
 ---
 
 <h3 style="font-size: 40px">👉 About Me</h3>
-<p>I'm a Senior Shopify Developer with 3+ years of experience building high-converting Shopify stores, custom themes, and apps. I've worked as a Team Lead at <span style="color: #FF10EF;"> OptiExperts </span> Shopify Agency and currently freelance with agencies and clients worldwide.</p>
+<p>I'm a Senior Shopify Developer with 4+ years of experience building high-converting Shopify stores, custom themes, and apps. I've worked as a Team Lead at <span style="color: #FF10EF;"> OptiExperts </span> Shopify Agency and currently freelance with agencies and clients worldwide.</p>
 <p style="margin-bottom: 1.5rem">Alongside my dev work, I'm pursuing an MS in Computer Science at the University of Wah, with research interests in Autonomous Vehicles, Large Language Models (LLMs), and Quantum Computing.</p>
 
 ---
@@ -28,10 +29,12 @@ Hi, I'm <span style="color: #FF10EF;">Amad | StackWise-Dev</span>
 
 ---
 
-<h3 style="font-size: 40px">👇 Check Out</h3>
+<h3 style="font-size: 40px">👇 Recent Projects</h3>
 <ul>
     <li><a href="https://buffy.co/products/breeze-sheets?variant=20477873717346&view=figma-redesign-new">Buffy.co</a> - PDP pages design with custom features. (Node Agency)</li>
     <li><a href="https://tcwhiskey.myshopify.com/collections/whiskey">TCWhiskey</a> - Collection filteration based on tags. (Node Agency)</li>
+    <li><a href="https://artofskincare.com/">ArtOfSkinCare</a> - Design expert-advice page (Node Agency)</li>
+    <li><a href="https://puritancapecod.com/">Puritan Cape Cod</a> - Collection filter pills designed based on conditions.(Node Agency)</li>
     <li><a href="https://vivazen.com/products/vivazen-energy-and-focus-shot">Vivazen</a> - Vivazen metaobject comparison and page designs. (Node Agency)</li>
     <li><a href="https://hayahcare.health/">Hayah Health</a> - Hayah Health complete website with 18 screen quiz data tracking and multilangual setup.</li>
     <li><a href="https://mon-chef-nutrition.myshopify.com/">Mon Chef</a> - Custom website with Onboarding API Integration</li>
@@ -55,7 +58,6 @@ Hi, I'm <span style="color: #FF10EF;">Amad | StackWise-Dev</span>
 <ul style="margin-bottom: 1.5rem">
     <li>Dulcet Gift Basket App for [memomap.](https://www.dulcetgiftbaskets.com/) with multiaddress and addon features.</li>
     <li>E-Sim orders and mail automation app with resend and esimaccess api</li>
-    <li>Dulcet Gift Basket App with multi-address order placement</li>
     <li>Discount API implementation</li>
     <li>Price Handler App with mapbox API for [memomap.](https://memomap.store/) </li>
 </ul>
