@@ -78,15 +78,15 @@ Hi, I'm <span style="color: #FF10EF;">Amad Ali</span>
 
 <h3 style="font-size: 40px">📈 Github Stats</h3>
 
-![](https://github-readme-stats.shion.dev/api?username=ahmad-shopify-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=ahmad-shopify-dev&theme=dark&hide_border=false)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ahmad-shopify-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=stackwise-dev-repo&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com/?user=stackwise-dev-repo&theme=dark&hide_border=false)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=stackwise-dev-repo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
 <h3 style="font-size: 40px">🏆 GitHub Trophies</h3>
 
-![](https://github-profile-trophy.vercel.app/?username=ahmad-shopify-dev&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=stackwise-dev-repo&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
@@ -97,6 +97,6 @@ Hi, I'm <span style="color: #FF10EF;">Amad Ali</span>
 ---
 <h3 style="font-size: 40px">🔝 Top Contributed Repo</h3>
 
-![](https://github-contributor-stats.vercel.app/api?username=ahmad-shopify-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=stackwise-dev-repo&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-[![](https://komarev.com/ghpvc/?username=ahmad-shopify-dev&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=stackwise-dev-repo&icon=0&color=0)](https://visitcount.itsvg.in)
