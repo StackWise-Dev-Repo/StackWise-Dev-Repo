@@ -4,7 +4,7 @@
 
 ## 👋 About Me
 
-I'm a Full-Stack Developer with **4+ years of experience** building high-performance web applications using modern technologies, including **MERN, Bun, Next.js, React Router, and TypeScript**. I also work with various ORMs and ODMs to build scalable, data-driven applications.
+I'm a Full-Stack Developer with **+4 years of experience** building high-performance web applications using modern technologies, including **MERN, Bun, Next.js, React Router, and TypeScript**. I also work with various ORMs and ODMs to build scalable, data-driven applications.
 
 Previously, I worked as a **Team Lead at OptiExperts**, a Shopify Plus agency, and collaborated with **Node Agency**. Currently, I work with software houses, agencies, and clients worldwide to build reliable, scalable, and high-quality digital solutions.
 
