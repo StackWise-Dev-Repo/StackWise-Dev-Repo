@@ -1,25 +1,7 @@
 <a align="center">
-    <img src="https://lh3.googleusercontent.com/d/191sHPJM4DcnRthc82lbtncqRX8hCOeik" alt="Github Intro" width="100%">
+    <img src="https://res.cloudinary.com/llfpw2ms/image/upload/v1793274357/Cyberpunk_Developer_Portfolio_Banner.png" alt="Github Intro" width="100%">
 </a>
 
-<h1 align="center">
-  Hey, I'm Amad Ali 👋
-</h1>
-<h3 align="center">
-  Building High-Performance Shopify Experiences & Full-Stack Applications 🚀
-</h3>
-<p align="center">
-  Shopify Themes & Apps • Headless • MERN Stack • Next.js • TypeScript
-</p>
-<h4 align="center">
-  🎥 YouTube:
-  <a href="https://www.youtube.com/@stackwisedev">StackWiseDev</a>
-</h4>
-<p align="center">
-  📧 stackwise.dev.repo@gmail.com
-</p>
-
----
 ## 👋 About Me
 
 I'm a Full-Stack Developer with **4+ years of experience** building high-performance web applications using modern technologies, including **MERN, Bun, Next.js, React Router, and TypeScript**. I also work with various ORMs and ODMs to build scalable, data-driven applications.
