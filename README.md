@@ -84,16 +84,20 @@ Previously, I worked as a **Team Lead at OptiExperts**, a Shopify Plus agency, a
 
 <ul>
   <li>
+    <a href="https://suziespettreats.com/"><strong>Suzie's Pet Treats</strong></a>
+    — Custom Shopify 2.0 theme design from Figma with high performance & metafields integration.
+  </li>
+  <li>
     <a href="https://buffy.co/products/breeze-sheets?variant=20477873717346&amp;view=figma-redesign-new"><strong>Buffy</strong></a>
-    — Custom product page designs and interactive features. <em>(Node Agency)</em>
+    — Custom product page designs, search feature, and custom email templates. <em>(Node Agency)</em>
   </li>
   <li>
     <a href="https://tcwhiskey.myshopify.com/collections/whiskey"><strong>TC Whiskey</strong></a>
-    — Tag-based collection filtering and product discovery. <em>(Node Agency)</em>
+    — Tag-based collection filtering and sub-category tabbed product discovery. <em>(Node Agency)</em>
   </li>
   <li>
     <a href="https://artofskincare.com/"><strong>Art of Skin Care</strong></a>
-    — Custom expert-advice page design and implementation. <em>(Node Agency)</em>
+    — Custom expert-advice page design, dynamic tag-based blog filter, and live chat trigger. <em>(Node Agency)</em>
   </li>
   <li>
     <a href="https://puritancapecod.com/"><strong>Puritan Cape Cod</strong></a>
@@ -101,27 +105,27 @@ Previously, I worked as a **Team Lead at OptiExperts**, a Shopify Plus agency, a
   </li>
   <li>
     <a href="https://vivazen.com/products/vivazen-energy-and-focus-shot"><strong>VivaZen</strong></a>
-    — Metaobject-driven comparison features and custom page designs. <em>(Node Agency)</em>
+    — Metaobject-driven comparison features, Storepoint API store locator, and Shopify Flow to Excel rebate forms. <em>(Node Agency)</em>
   </li>
   <li>
     <a href="https://hayahcare.health/"><strong>Hayah Health</strong></a>
-    — Full website development, an 18-screen quiz with data tracking, and multilingual support.
+    — Full website development from scratch, 20-screen metabolic diagnostic quiz, dynamic SVG charts, and Make.com/Calendly/Klaviyo automation pipeline.
   </li>
   <li>
-    <a href="https://mon-chef-nutrition.myshopify.com/"><strong>Mon Chef Nutrition</strong></a>
-    — Custom storefront development and onboarding API integration.
+    <a href="https://www.unedietedechef.fr/"><strong>Mon Chef Nutrition (A Chef's Diet)</strong></a>
+    — Custom storefront development, 3 reference templates translation, and onboarding nutrition API & Klaviyo integration.
   </li>
   <li>
     <a href="https://www.sailbrace.com/"><strong>Sailbrace</strong></a>
-    — Custom storefront features and page development. <em>(EcomBright Agency)</em>
+    — Complete store theme migration, side-panel Mega Menu, and custom PDP gift packaging builder.
   </li>
   <li>
     <a href="https://www.skinzform.com/"><strong>Skinzform</strong></a>
-    — Conversion of an AI-generated design into a functional storefront. <em>(EcomBright Agency)</em>
+    — Conversion of an AI-generated design into a functional storefront. <em>(EcommBright Agency)</em>
   </li>
   <li>
     <a href="https://w-compliments.myshopify.com/"><strong>W-Compliments</strong></a>
-    — Pixel-accurate Figma-to-Shopify storefront implementation. <em>(EcomBright Agency)</em>
+    — Pixel-accurate Figma-to-Shopify storefront implementation. <em>(EcommBright Agency)</em>
   </li>
   <li>
     <a href="https://lineargent.com/"><strong>Lineargent</strong></a>
@@ -129,23 +133,23 @@ Previously, I worked as a **Team Lead at OptiExperts**, a Shopify Plus agency, a
   </li>
   <li>
     <a href="https://aromely.com/"><strong>Aromely</strong></a>
-    — Search and cart optimization with custom shopping features. <em>(OptiExperts)</em>
+    — Predictive search and drawer cart optimization with dynamic upsell features. <em>(OptiExperts)</em>
   </li>
   <li>
-    <a href="https://0ugteg-ks.myshopify.com/"><strong>Matratze</strong></a>
-    — Pixel-accurate storefront development and custom features. <em>(EcomBright Agency)</em>
+    <a href="https://0ugteg-ks.myshopify.com/"><strong>Matratze (Matze Matratze)</strong></a>
+    — Pixel-accurate storefront conversion (6+ templates), 10+ custom PDP features, mega menu, and social logins. <em>(EcommBright Agency)</em>
   </li>
   <li>
     <a href="https://fortika.coffee/"><strong>Fortika Coffee</strong></a>
-    — Fundraising campaign implementation.
+    — Dynamic fundraising campaign implementation & custom coffee roast selectors.
   </li>
   <li>
     <a href="https://kiltsstore.com/products/scottish-national-tartan-kilt-traditional-highland-outfit"><strong>Kilt Store</strong></a>
-    — Custom product bundling functionality.
+    — Custom Highland outfit product bundling functionality & tailored measurement tools.
   </li>
   <li>
     <a href="https://mahoussedechaise.fr/products/product-kit?view=bundle-template-stack"><strong>Ma Housse de Chaise</strong></a>
-    — Complete bundle-pack implementation and custom product experiences.
+    — Complete bundle-stack pack implementation and custom product experiences.
   </li>
   <li>
     <a href="https://v869ck-s0.myshopify.com/"><strong>Fruidom</strong></a>
@@ -153,19 +157,31 @@ Previously, I worked as a **Team Lead at OptiExperts**, a Shopify Plus agency, a
   </li>
   <li>
     <a href="https://holy-blends.fr/"><strong>Holy Blends</strong></a>
-    — Storefront development with custom bundles and selling-plan features.
+    — Custom build-your-own bundle bucket builder and tailored Recharge subscription features.
   </li>
   <li>
-    <a href="https://chiashark.com/"><strong>ChiaShark</strong></a>
-    — Conversion of an AI-generated design into a functional storefront. <em>(EcomBright Agency)</em>
+    <a href="https://chialoradaily.com/"><strong>ChiaShark (Chialora Daily)</strong></a>
+    — Conversion of 5 Lovable AI templates into a functional Shopify storefront with custom PDP rituals and subscription options.
   </li>
   <li>
     <a href="https://www.aviqueprints.com/"><strong>Avique Prints</strong></a>
-    — Storefront development from scratch with custom features.
+    — Storefront development from scratch, dynamic live visitor counter, UGC video integration, and custom image/text upload engine.
   </li>
   <li>
-    <a href="https://www.oimaas.ca/"><strong>Oimaas</strong></a>
-    — Custom storefront design and development from scratch.
+    <a href="https://www.oimaas.ca/"><strong>Oimaas Hair</strong></a>
+    — Custom CRO-focused storefront design from scratch, magazine layout, custom cart drawer, and interactive PDP sizing tools.
+  </li>
+  <li>
+    <a href="https://club1965.com/"><strong>Club 1965</strong></a>
+    — Ground-up design of landing & apparel pages with custom HTML5 video player. <em>(EcommBright Agency)</em>
+  </li>
+  <li>
+    <a href="https://festibax.com/"><strong>Festibax Europe</strong></a>
+    — Custom bag personalization configurator, multi-angle PDP measurements, and chunked logo upload module. <em>(EcommBright Agency)</em>
+  </li>
+  <li>
+    <a href="#"><strong>RYTHM Band</strong></a>
+    — High-tech AI wearable showcase, live biometric tracking API integration, and animated PDP. <em>(EcommBright Agency)</em>
   </li>
 </ul>
 
