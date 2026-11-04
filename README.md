@@ -2,13 +2,13 @@
     <img src="https://res.cloudinary.com/llfpw2ms/image/upload/v1793274357/Cyberpunk_Developer_Portfolio_Banner.png" alt="Github Intro" width="100%">
 </a>
 
-Portfolio: <a href="https://amad-portfolio-one.vercel.app/" target="_blank">Amad Portfolio</a>
-
 ## 👋 About Me
 
 I'm a Full-Stack Developer with **+4 years of experience** building high-performance web applications using modern technologies, including **MERN, Bun, Next.js, React Router, and TypeScript**. I also work with various ORMs and ODMs to build scalable, data-driven applications.
 
 Previously, I worked as a **Team Lead at OptiExperts**, a Shopify Plus agency, and collaborated with **Node Agency**. Currently, I work with software houses, agencies, and clients worldwide to build reliable, scalable, and high-quality digital solutions.
+
+Portfolio: <a href="https://amad-portfolio-one.vercel.app/" target="_blank">Amad Portfolio</a>
 
 ---
 
