@@ -2,7 +2,7 @@
     <img src="https://res.cloudinary.com/llfpw2ms/image/upload/v1793274357/Cyberpunk_Developer_Portfolio_Banner.png" alt="Github Intro" width="100%">
 </a>
 
-Portfolio: <a href="https://amad-portfolio-one.vercel.app/">Amad Portfolio</a>
+Portfolio: <a href="https://amad-portfolio-one.vercel.app/" target="_blank">Amad Portfolio</a>
 
 ## 👋 About Me
 
